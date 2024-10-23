@@ -1,3 +1,3 @@
 "# WingGuardians" 
 
-Website Desgin competition in class 
+Website Design competition in class 
